@@ -67,7 +67,7 @@ main
 {
     background-image: url('Background\ Landing\ image.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     height: 100%;
    
 }
